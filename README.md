@@ -2,7 +2,7 @@
 
 
 <ul>
-🧑‍💼 _Tenant Management_
+🧑‍💼 **Tenant Management**
 <li>Allows the administrator to add, update, and remove tenant or room data.</li>
 📊 **Reports**
 <li>Generates detailed reports on tenants, payments, and room status.</li>
