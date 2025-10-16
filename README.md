@@ -2,7 +2,7 @@
 
 <ul>
 
-###<li>🧑‍💼 **Tenant Management**: Allows the administrator to add, update, and remove tenant or room data.</li>
+- 🧑‍💼 **Tenant Management**: Allows the administrator to add, update, and remove tenant or room data.
 ###<li>📊 **Reports**: Generates detailed reports on tenants, payments, and room status.</li>
 ###<li>💸 **Payments**: Records and tracks rental payments, including payment history.</li>
 ###<li>👥 **Tenant Registration & Room Assignment**: Enables Registration and managements of tenant profiles and room assignments.</li>
